@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 , soy Jofre Azogue</h1>
 <h3 align="center">Me gusta programar en el campo del desarrollo de juegos 3D y estoy aprendiendo lenta pero seguramente en el que estoy muy contento</h3>
 
-- 🔭 Actualmente estoy trabajando en **Vesylteg VTG**
+- 🏢 Actualmente estoy trabajando en **Vesylteg VTG**
 
-- 🌱 Actualmente estoy aprendiendo **Programación y modelado 3D**
+- 📲 Actualmente estoy aprendiendo **Programación y modelado 3D**📡
 
 - 💬 Pregúntame sobre **Cuál es mi música favorita**
 
-- 📫 Cómo comunicarse conmigo **jazoguej@gmail.com**
+- 📞 Cómo comunicarse conmigo **jazoguej@gmail.com**
 
 - 📄 Conozca mis experiencias [en la reparación de computadoras portátiles y de escritorio](en la reparación de computadoras portátiles y de escritorio)
 
