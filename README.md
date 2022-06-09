@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , soy Jofre Azogue</h1>
-<h3 align="center">Me gusta programar en el campo del desarrollo de juegos 3D y estoy aprendiendo lenta pero seguramente en el que estoy muy contento</h3>
+<h3 align="center">Me gusta programar en el campo del desarrollo de juegos 3D y estoy aprendiendo lento pero seguro en el que estoy muy contento</h3>
 
 - 🏢 Actualmente estoy trabajando en **Vesylteg VTG**
 
