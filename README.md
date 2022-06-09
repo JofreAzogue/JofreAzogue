@@ -1,6 +1,8 @@
+[![rear-view-of-programmer-working-all-night-long.jpg](https://i.postimg.cc/rFGzHVgp/rear-view-of-programmer-working-all-night-long.jpg)](https://postimg.cc/Yh9pGw5c)
+
 <h1 align="center">Hi 👋 , soy Jofre Azogue</h1>
 <h3 align="center">Me gusta programar en el campo del desarrollo de juegos 3D y estoy aprendiendo lento pero seguro en el que estoy muy contento</h3>
-[![rear-view-of-programmer-working-all-night-long.jpg](https://i.postimg.cc/rFGzHVgp/rear-view-of-programmer-working-all-night-long.jpg)](https://postimg.cc/Yh9pGw5c)
+
 - 🏢 Actualmente estoy trabajando en **Vesylteg VTG**
 
 - 📲 Actualmente estoy aprendiendo **Programación y modelado 3D**📡
