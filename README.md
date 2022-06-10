@@ -1,5 +1,6 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/107142707/172984335-3dc438c5-fbf3-496c-8625-a59acd21c04a.gif)
-
+<p align="center">
+  <img width="460" height="300" src=https://user-images.githubusercontent.com/107142707/172984335-3dc438c5-fbf3-496c-8625-a59acd21c04a.gif>
+</p>
 <h1 align="center">Hi 👋 , soy Jofre Azogue</h1>
 <h3 align="center">Me gusta programar en el campo del desarrollo de juegos 3D y estoy aprendiendo lento pero seguro en el que estoy muy contento</h3>
 
