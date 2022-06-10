@@ -1,7 +1,5 @@
 [![rear-view-of-programmer-working-all-night-long.jpg](https://i.postimg.cc/rFGzHVgp/rear-view-of-programmer-working-all-night-long.jpg)](https://postimg.cc/Yh9pGw5c)
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
 <h1 align="center">Hi 👋 , soy Jofre Azogue</h1>
 <h3 align="center">Me gusta programar en el campo del desarrollo de juegos 3D y estoy aprendiendo lento pero seguro en el que estoy muy contento</h3>
 
