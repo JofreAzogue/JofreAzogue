@@ -16,13 +16,13 @@
 
 - ⚡ Dato curioso ** Me gusta comer cuando estoy nervioso **
 
-<h3 align="left">Conéctese conmigo: < / h3>
+<h3 align="left">Contáctese conmigo: 📱
 <p align = "left">
-<a href="https://twitter.com/jofre_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jofre_a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Jofre V Azogue JQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jofre vinicio azogue jaque" height="30" width="40" /></a>
-<a href="https://fb.com/jofre v azogue jq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jofre v azogue jq" height="30" width="40" /></a>
+<a href="https://twitter.com/Jofre_VA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jofre_VA" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jofre-azogue-jq-a58906140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jofre-azogue-jq-a58906140/" height="30" width="40" /></a>
+<a href="https://fb.com/Jofre.Azogue?_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jofre.Azogue?_rdr" height="30" width="40" /></a>
 <a href="https://instagram.com/jofrevaj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jofrevaj7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vesylteg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vesylteg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2juPy5ZN61LkN9hWd7wmag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/UC2juPy5ZN61LkN9hWd7wmag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
