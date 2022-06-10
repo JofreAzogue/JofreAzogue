@@ -1,4 +1,4 @@
-[![rear-view-of-programmer-working-all-night-long.jpg](https://i.postimg.cc/rFGzHVgp/rear-view-of-programmer-working-all-night-long.jpg)](https://postimg.cc/Yh9pGw5c)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/107142707/172984335-3dc438c5-fbf3-496c-8625-a59acd21c04a.gif)
 
 <h1 align="center">Hi 👋 , soy Jofre Azogue</h1>
 <h3 align="center">Me gusta programar en el campo del desarrollo de juegos 3D y estoy aprendiendo lento pero seguro en el que estoy muy contento</h3>
